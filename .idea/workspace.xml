@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Creational/SingletonPattern/ReflectTest.java" line="25" />
+    <bookmark url="file://$PROJECT_DIR$/src/Structural/CompositePattern/Test.java" line="30" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="eaf000d8-180f-4fb8-af0b-d7c8dba4465e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readResolveMethod</find>
+      <find>CourseBuilder</find>
+      <find>clone()</find>
+      <find>clone</find>
+      <find>valueOf</find>
+      <find>setState</find>
+      <find>buildMemory</find>
+      <find>compareAndSet</find>
+      <find>addDepartment</find>
+      <find>getCompany</find>
+      <find>compantList</find>
+      <find>companyList</find>
+      <find>addCompany</find>
+      <find>department</find>
+      <find>getAllCompanyName</find>
+      <find>companyHashMap</find>
+      <find>getAllDepartmentName</find>
+      <find>departmentHashMap</find>
+      <find>addDepartmentName</find>
+      <find>changed</find>
+      <find>65</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Creational/AbstractFactory/version/GreeRefrigertor.java" />
+        <option value="$PROJECT_DIR$/src/Creational/AbstractFactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/StatePatternClient.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Context.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/State.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/ScoreStateTest.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/ScoreContext.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/AbstractState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/LowState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/MiddleState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/HighState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/ThreadPoolContext.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/PlayState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/SpeedState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/StopState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/PauseState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/VideoContext.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/Test.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version1/AbstarctState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/Audit.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/NoPass.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/Apply.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/FlowState.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/Pass.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Version2/Context.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Boss.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/HR.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Person.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Chef.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Food.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Role.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Department.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Staff.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/AccountingDepartment.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Engineer.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/CalculateStaff.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/StaffContainer.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/PersonnelDepartment.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/VisitorPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/ReviewPeople.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/ReviewPerson.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Boss.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/CTO.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Tester.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/StatePattern/Apply.java" />
+        <option value="$PROJECT_DIR$/src/Creational/Prototype/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.m2/repository/asm/asm/3.3.1/asm-3.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hao\code\DesignPattern\src\BuilderPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CompositePattern.Version2" />
+      <recent name="CompositePattern.Version1" />
+      <recent name="AdapterPattern.Sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hao\code\DesignPattern\src\Creational\AbstractFactory\version" />
+      <recent name="D:\hao\code\DesignPattern\src\lib" />
+      <recent name="D:\hao\code\DesignPattern\src\Structural\ProxyPattern\CglibProxy" />
+      <recent name="D:\hao\code\DesignPattern\src\Structural\ProxyPattern\DynamicProxy" />
+      <recent name="D:\hao\code\DesignPattern\src\ObserverPattern\Version2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Apply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.StatePattern.Version2.Apply" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.StatePattern.Version2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.ChainOfResponsibilityPattern.Programmer" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.ChainOfResponsibilityPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.CommandPattern.Version1.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.CommandPattern.Version1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.Prototype.BlogDemo.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.Prototype.BlogDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.AbstractFactory.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.AbstractFactory.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.AbstractFactory.IElectricAppliance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.CommandPattern.Version1.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.CommandPattern.Version1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.CommandPattern.Version2.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.CommandPattern.Version2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlyweightPattern.Test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyweightPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Apply" />
+      <item itemvalue="Application.Programmer" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Apply" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Programmer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DMT01\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf000d8-180f-4fb8-af0b-d7c8dba4465e" name="Default" comment="" />
+      <created>1551947323066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551947323066</updated>
+      <workItem from="1551947324954" duration="4004000" />
+      <workItem from="1552008405973" duration="17421000" />
+      <workItem from="1552267024049" duration="3257000" />
+      <workItem from="1552284242566" duration="8407000" />
+      <workItem from="1552352683763" duration="4928000" />
+      <workItem from="1552359058377" duration="4769000" />
+      <workItem from="1552444734061" duration="1500000" />
+      <workItem from="1552456012550" duration="9666000" />
+      <workItem from="1552530598178" duration="8107000" />
+      <workItem from="1552553425322" duration="1331000" />
+      <workItem from="1552612581968" duration="3040000" />
+      <workItem from="1552872699943" duration="910000" />
+      <workItem from="1552897428551" duration="703000" />
+      <workItem from="1552958255134" duration="605000" />
+      <workItem from="1554348309374" duration="8313000" />
+      <workItem from="1554687553465" duration="9584000" />
+      <workItem from="1554886352553" duration="2823000" />
+      <workItem from="1554946292208" duration="10813000" />
+      <workItem from="1555037331454" duration="869000" />
+      <workItem from="1555317613106" duration="1196000" />
+      <workItem from="1555386383435" duration="599000" />
+      <workItem from="1555466359986" duration="7225000" />
+      <workItem from="1555484665444" duration="3191000" />
+      <workItem from="1556011049085" duration="2094000" />
+      <workItem from="1556070313883" duration="13297000" />
+      <workItem from="1556177698960" duration="6417000" />
+      <workItem from="1556241748921" duration="6200000" />
+      <workItem from="1556262219446" duration="5027000" />
+      <workItem from="1556526011486" duration="3305000" />
+      <workItem from="1556588250658" duration="7496000" />
+      <workItem from="1557023788880" duration="17103000" />
+      <workItem from="1557105491165" duration="598000" />
+      <workItem from="1557109062788" duration="14628000" />
+      <workItem from="1557192324763" duration="14586000" />
+      <workItem from="1557278409267" duration="8207000" />
+      <workItem from="1557364630503" duration="9189000" />
+      <workItem from="1557450989698" duration="1627000" />
+      <workItem from="1557709862294" duration="11009000" />
+      <workItem from="1557797217434" duration="5039000" />
+      <workItem from="1557819780208" duration="5841000" />
+      <workItem from="1557882617642" duration="12330000" />
+      <workItem from="1557969374044" duration="8795000" />
+      <workItem from="1558063653752" duration="647000" />
+      <workItem from="1558081391760" duration="1889000" />
+      <workItem from="1558316073748" duration="10582000" />
+      <workItem from="1558401664804" duration="12032000" />
+      <workItem from="1558487407226" duration="14163000" />
+      <workItem from="1558573765845" duration="14282000" />
+      <workItem from="1558661161665" duration="12822000" />
+      <workItem from="1558919758849" duration="2119000" />
+      <workItem from="1559093962651" duration="1198000" />
+      <workItem from="1559110605952" duration="7206000" />
+      <workItem from="1559178697638" duration="10790000" />
+      <workItem from="1559265684683" duration="14573000" />
+      <workItem from="1559525054777" duration="1972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="370324000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33006537" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48495576" visible="true" weight="0.20149253" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32897604" />
+      <window_info id="Structure" order="1" sideWeight="0.5159575" side_tool="true" weight="0.18017058" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34204793" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36710238" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48495576" visible="true" weight="0.23081024" />
+      <window_info id="Structure" order="1" sideWeight="0.5159575" side_tool="true" weight="0.18017058" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34204793" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Creational/SingletonPattern/Main.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Creational/SingletonPattern/LazyDoubleCheckSingleton.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../App/JDK1.8/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>430</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../App/JDK1.8/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1570</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../App/JDK1.8/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>2092</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Creational/BuilderPattern/Version2/ComputerDirector.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/ObserverPattern/Version2/Test.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Creational/SimpleFactoryPattern/CakeFactory.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Structural/ProxyPattern/DynamicProxy/Browser.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Structural/ProxyPattern/CglibProxy/HttpInvokeProxy.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/TemplatePattern/Test.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/TemplatePattern/Latte.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/TemplatePattern/Coffee.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/MementoPattern/ArticleCaretaker.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/StatePattern/Apply.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/StatePattern/Audit.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/StatePattern/Context.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="77" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/StatePattern/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="16" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/SuperAdmin.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Visitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/HR.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Boss.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Chef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Version1/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Engineer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Behavioral.VisitorPattern">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Behavioral.VisitorPattern</OriginalElement>
+          <nodes>
+            <node x="381.2843434343434" y="287.0">Behavioral.VisitorPattern.Department</node>
+            <node x="614.7375000000001" y="435.0">Behavioral.VisitorPattern.StaffContainer</node>
+            <node x="508.57171717171724" y="790.0">Behavioral.VisitorPattern.Test</node>
+            <node x="36.5" y="597.0">Behavioral.VisitorPattern.AccountingDepartment</node>
+            <node x="543.5708333333334" y="0.0">Behavioral.VisitorPattern.Staff</node>
+            <node x="319.5" y="609.0">Behavioral.VisitorPattern.PersonnelDepartment</node>
+            <node x="238.33333333333331" y="113.0">Behavioral.VisitorPattern.Engineer</node>
+            <node x="381.73750000000007" y="423.0">Behavioral.VisitorPattern.Manager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Behavioral.VisitorPattern.PersonnelDepartment" target="Behavioral.VisitorPattern.Manager">
+              <point x="60.0" y="-49.5" />
+              <point x="469.5" y="577.0" />
+              <point x="487.73750000000007" y="577.0" />
+              <point x="0.0" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.PersonnelDepartment">
+              <point x="-32.8125" y="-26.5" />
+              <point x="563.2592171717172" y="750.0" />
+              <point x="409.5" y="750.0" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.Staff">
+              <point x="76.5625" y="-26.5" />
+              <point x="672.6342171717172" y="770.0" />
+              <point x="837.2375000000002" y="770.0" />
+              <point x="837.2375000000002" y="73.0" />
+              <point x="737.9041666666667" y="73.0" />
+              <point x="88.33333333333337" y="26.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Staff" target="Behavioral.VisitorPattern.Department">
+              <point x="-53.0" y="26.5" />
+              <point x="596.5708333333334" y="83.0" />
+              <point x="504.8333333333333" y="83.0" />
+              <point x="504.8333333333333" y="267.0" />
+              <point x="531.2843434343434" y="267.0" />
+              <point x="60.0" y="-38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Engineer" target="Behavioral.VisitorPattern.Staff">
+              <point x="0.0" y="-62.0" />
+              <point x="344.3333333333333" y="73.0" />
+              <point x="561.2375000000001" y="73.0" />
+              <point x="-88.33333333333334" y="26.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.StaffContainer" target="Behavioral.VisitorPattern.Department">
+              <point x="-70.66666666666669" y="-50.0" />
+              <point x="650.0708333333334" y="383.0" />
+              <point x="546.2843434343434" y="383.0" />
+              <point x="75.0" y="38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Manager" target="Behavioral.VisitorPattern.Staff">
+              <point x="70.66666666666663" y="-62.0" />
+              <point x="558.4041666666667" y="403.0" />
+              <point x="571.7843434343434" y="403.0" />
+              <point x="571.7843434343434" y="93.0" />
+              <point x="631.9041666666667" y="93.0" />
+              <point x="-17.666666666666686" y="26.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.AccountingDepartment" target="Behavioral.VisitorPattern.Manager">
+              <point x="87.66666666666663" y="-61.5" />
+              <point x="255.66666666666663" y="577.0" />
+              <point x="417.0708333333334" y="577.0" />
+              <point x="-70.66666666666669" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.StaffContainer" target="Behavioral.VisitorPattern.Staff">
+              <point x="0.0" y="-50.0" />
+              <point x="720.7375000000001" y="403.0" />
+              <point x="750.4166666666667" y="403.0" />
+              <point x="750.4166666666667" y="93.0" />
+              <point x="667.2375000000001" y="93.0" />
+              <point x="17.666666666666657" y="26.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.AccountingDepartment" target="Behavioral.VisitorPattern.Department">
+              <point x="0.0" y="-61.5" />
+              <point x="168.0" y="577.0" />
+              <point x="129.66666666666663" y="577.0" />
+              <point x="129.66666666666663" y="383.0" />
+              <point x="396.2843434343434" y="383.0" />
+              <point x="-75.0" y="38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.Department">
+              <point x="10.9375" y="-26.5" />
+              <point x="607.0092171717172" y="770.0" />
+              <point x="604.2375000000001" y="770.0" />
+              <point x="604.2375000000001" y="393.0" />
+              <point x="516.2843434343434" y="393.0" />
+              <point x="45.0" y="38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Engineer" target="Behavioral.VisitorPattern.Department">
+              <point x="84.80000000000007" y="62.0" />
+              <point x="429.1333333333334" y="267.0" />
+              <point x="471.2843434343434" y="267.0" />
+              <point x="0.0" y="-38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.PersonnelDepartment" target="Behavioral.VisitorPattern.Engineer">
+              <point x="-60.0" y="-49.5" />
+              <point x="349.5" y="567.0" />
+              <point x="326.28737373737374" y="567.0" />
+              <point x="326.28737373737374" y="267.0" />
+              <point x="344.3333333333333" y="267.0" />
+              <point x="0.0" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.AccountingDepartment" target="Behavioral.VisitorPattern.Engineer">
+              <point x="-87.66666666666674" y="-61.5" />
+              <point x="80.33333333333326" y="577.0" />
+              <point x="90.57083333333338" y="577.0" />
+              <point x="90.57083333333338" y="267.0" />
+              <point x="301.93333333333334" y="267.0" />
+              <point x="-42.39999999999998" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Department" target="Behavioral.VisitorPattern.Engineer">
+              <point x="-60.0" y="-38.0" />
+              <point x="411.2843434343434" y="267.0" />
+              <point x="386.73333333333335" y="267.0" />
+              <point x="42.400000000000034" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.Engineer">
+              <point x="-76.5625" y="-26.5" />
+              <point x="519.5092171717172" y="770.0" />
+              <point x="26.0" y="770.0" />
+              <point x="26.0" y="257.0" />
+              <point x="259.5333333333333" y="257.0" />
+              <point x="-84.80000000000001" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.Manager">
+              <point x="-10.9375" y="-26.5" />
+              <point x="585.1342171717172" y="740.0" />
+              <point x="543.2873737373739" y="740.0" />
+              <point x="543.2873737373739" y="577.0" />
+              <point x="558.4041666666668" y="577.0" />
+              <point x="70.66666666666674" y="62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Department" target="Behavioral.VisitorPattern.Manager">
+              <point x="15.0" y="38.0" />
+              <point x="486.2843434343434" y="403.0" />
+              <point x="487.73750000000007" y="403.0" />
+              <point x="0.0" y="-62.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Manager" target="Behavioral.VisitorPattern.Department">
+              <point x="-70.66666666666669" y="-62.0" />
+              <point x="417.0708333333334" y="403.0" />
+              <point x="456.2843434343434" y="403.0" />
+              <point x="-15.0" y="38.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.AccountingDepartment">
+              <point x="-54.6875" y="-26.5" />
+              <point x="541.3842171717172" y="760.0" />
+              <point x="168.0" y="760.0" />
+              <point x="0.0" y="61.5" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.Test" target="Behavioral.VisitorPattern.StaffContainer">
+              <point x="54.6875" y="-26.5" />
+              <point x="650.7592171717172" y="760.0" />
+              <point x="740.8342171717171" y="760.0" />
+              <point x="740.8342171717171" y="577.0" />
+              <point x="773.7375000000002" y="577.0" />
+              <point x="53.00000000000003" y="50.0" />
+            </edge>
+            <edge source="Behavioral.VisitorPattern.PersonnelDepartment" target="Behavioral.VisitorPattern.Department">
+              <point x="0.0" y="-49.5" />
+              <point x="409.5" y="567.0" />
+              <point x="356.9041666666667" y="567.0" />
+              <point x="356.9041666666667" y="393.0" />
+              <point x="426.2843434343434" y="393.0" />
+              <point x="-45.0" y="38.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-58.0" y="252.0" />
+          <SelectedNodes>
+            <node>Behavioral.VisitorPattern.PersonnelDepartment</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/AccountingDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/StaffContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/VisitorPattern/PersonnelDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/ReviewPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/CTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/CommandPattern/Version1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsibilityPattern/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/StatePattern/ScoreStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ObserverPattern/Version2/Mall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/StatePattern/Audit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/StatePattern/FlowState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/StatePattern/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/BuilderPattern/Version2/ComputerDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/BuilderPattern/Version2/ComputerActualBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/ReadingStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/BuilderPattern/Version2/ComputerDIY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/ProxyPattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="282.0" y="166.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/ProxyPattern/StaticProxy/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" selection-start-line="8" selection-start-column="24" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/SerializableSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SingletonTest">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/SingletonPattern/SerializableSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DesignPattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>asm-3.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
